@@ -1,3 +1,3 @@
 # amazon
 Amazon clone 
-[Click Here]()
+[Click Here](https://sreekha.github.io/amazon/)
